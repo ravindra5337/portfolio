@@ -12,12 +12,12 @@ export default function Home() {
           </h1>
 
           <p className="mt-6 text-xl text-gray-700">
-            Senior Game Developer | Unity • Unreal • Multiplayer Systems | 10+ Years Experience
+            Advanced Software Engineer | Unity • Unreal • Multiplayer Systems | 10+ Years Experience
           </p>
 
           <p className="mt-6 max-w-3xl text-gray-600 leading-relaxed">
-            Senior game developer with 10+ years of experience building mobile, multiplayer and puzzle games using Unity and C#. 
-            Strong expertise in gameplay architecture, optimization and scalable systems. 
+            Senior game developer with 10+ years of experience building mobile, multiplayer and puzzle games using Unity and C#.
+            Strong expertise in gameplay architecture, optimization and scalable systems.
             Currently expanding into Unreal Engine and advanced gameplay programming with C++ and Blueprints.
           </p>
 
@@ -86,6 +86,7 @@ export default function Home() {
               <h3 className="text-xl font-bold">Light & Wonder — Advance Software Engineer</h3>
               <p className="text-gray-500">May 2024 – Present</p>
               <ul className="list-disc ml-6 mt-3 text-gray-700">
+                <li>Developed Slot Games for EMEA market "REEL CHOICE"</li>
                 <li>Developed multigame application for slot games</li>
                 <li>Scriptable-object based layout system</li>
                 <li>Mentoring and managing team</li>

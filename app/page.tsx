@@ -124,6 +124,24 @@ export default function Home() {
 
             {[
               {
+                title: "REEL CHOICE",
+                desc: "A MultiGame application for slot games",
+                points: [
+                  "Implemented UI to hold and support multiple slot games",
+                  "Optimised games to reduce loading time"
+                ],
+              },
+
+              {
+                title: "VeryCherry",
+                desc: "Slot game developed for EGM.",
+                points: [
+                  "Implemented Game features like Gamble wager saver free spin",
+                  "Updated inHouse SDK",
+                  "Unity upgradation and optimization",
+                ],
+              },
+              {
                 title: "SpellUp",
                 desc: "Word puzzle game with 2D grid word search.",
                 points: [
